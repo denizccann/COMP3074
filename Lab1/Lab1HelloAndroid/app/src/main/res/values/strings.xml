@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Lab1HelloAndroid</string>
-
-    <string-array name="values">
-        <item>Welcome to COMP3074!</item>
-        <item>Button clicked!</item>
-        <item>Android is fun!</item>
-    </string-array>
-</resources>
